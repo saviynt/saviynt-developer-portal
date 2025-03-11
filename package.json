@@ -64,13 +64,13 @@
     ]
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "3.1.1",
-    "@docusaurus/tsconfig": "3.1.1",
-    "@docusaurus/types": "^3.1.1",
-    "@types/lodash": "^4.17.0",
+    "@docusaurus/module-type-aliases": "^3.7.0",
+    "@docusaurus/tsconfig": "^3.7.0",
+    "@docusaurus/types": "^3.7.0",
+    "@types/lodash": "^4.17.16",
     "@types/mustache": "^4.2.5",
-    "css-minimizer-webpack-plugin": "^4.2.2",
-    "eslint-plugin-prettier": "^5.0.1",
-    "typescript": "^5.4.5"
+    "css-minimizer-webpack-plugin": "^7.0.2",
+    "eslint-plugin-prettier": "^5.2.3",
+    "typescript": "^5.8.2"
   }
 }
