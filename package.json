@@ -70,7 +70,7 @@
     "@types/lodash": "^4.17.16",
     "@types/mustache": "^4.2.5",
     "css-minimizer-webpack-plugin": "^7.0.2",
-    "eslint-plugin-prettier": "^5.2.5",
+    "eslint-plugin-prettier": "^5.2.6",
     "typescript": "^5.8.2"
   }
 }
