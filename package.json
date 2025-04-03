@@ -38,7 +38,7 @@
     "clsx": "^2.1.1",
     "docusaurus-plugin-openapi-docs": "4.3.7",
     "docusaurus-theme-openapi-docs": "4.3.7",
-    "dompurify": "3.2.4",
+    "dompurify": "3.2.5",
     "lodash": "4.17.21",
     "lodash.uniq": "4.5.0",
     "marked": "15.0.7",
