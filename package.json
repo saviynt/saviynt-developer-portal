@@ -41,7 +41,7 @@
     "dompurify": "3.2.5",
     "lodash": "4.17.21",
     "lodash.uniq": "4.5.0",
-    "marked": "15.0.7",
+    "marked": "15.0.9",
     "posthog-docusaurus": "2.0.4",
     "prism-react-renderer": "2.4.1",
     "react": "^19.1.0",
