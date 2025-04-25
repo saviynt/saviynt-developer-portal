@@ -33,7 +33,7 @@
     "@docusaurus/theme-mermaid": "^3.7.0",
     "@docusaurus/utils-common": "^3.7.0",
     "async": "3.2.6",
-    "axios": "^1.8.3",
+    "axios": "^1.9.0",
     "braces": "3.0.3",
     "clsx": "^2.1.1",
     "docusaurus-plugin-openapi-docs": "4.3.7",
