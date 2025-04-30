@@ -21,7 +21,7 @@
     "re-gen": "yarn clean-all && yarn gen-all"
   },
   "dependencies": {
-    "@algolia/client-search": "5.23.2",
+    "@algolia/client-search": "5.24.0",
     "@docusaurus/core": "^3.7.0",
     "@docusaurus/mdx-loader": "^3.7.0",
     "@docusaurus/plugin-content-blog": "^3.7.0",
